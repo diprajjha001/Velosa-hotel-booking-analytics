@@ -2,7 +2,7 @@
 
 An interactive **Power BI dashboard** designed to analyze hotel booking performance, revenue trends, guest behavior, cancellation rates, booking channels, and loyalty program effectiveness for **Velosa Hotels & Resorts**.
 
-![Dashboard Preview]![Uploading image.png…]()
+
 
 
 ---
